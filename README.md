@@ -12,3 +12,7 @@ The first part is about the implementation of the Control VAE model. The Control
 
 The second part is about the implementation of the Generative Adversarial Network (GAN). The GAN model is a generative model that is used to generate new samples from a given distribution. The model consists of two parts: the generator and the discriminator. The generator is trained to generate new samples that are similar to the real samples, while the discriminator is trained to distinguish between the real samples and the generated samples. The model is trained in an adversarial manner, where the generator tries to fool the discriminator and the discriminator tries to distinguish between the real and generated samples. We are going to use the GAN model to generate new samples of hand-written digits similiar to MNISt dataset.  
 We have implemented basic GAN, Wasserstein GAN (WGAN), and Self-Supervised GAN (SS-GAN) models.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
