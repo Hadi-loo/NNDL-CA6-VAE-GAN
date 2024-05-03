@@ -1,4 +1,4 @@
-# NNDL CA6 - VAE & GAN
+# Neural Network and Deep Learning Course - VAE & GAN
 
 ## Project Description
 
